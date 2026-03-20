@@ -9,6 +9,6 @@
     <script src="js.js" defer></script>
 </head>
 <body>
-    <h2> hello 3 </h2>
+    <h2> хуй хуй хуй 3 </h2>
 </body>
 </html>
